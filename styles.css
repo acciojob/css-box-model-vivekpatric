@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.demo{
+	border:15px solid blue;
+	padding:50px;
+	background:lightblue;
+	margin:20px;
+}
